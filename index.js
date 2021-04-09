@@ -7,7 +7,7 @@ const questions = [
     {
       type: 'input',
       name: 'username',
-      message: 'What is your username?',
+      message: 'What is your GitHub username?',
     },
     {
       type: 'input',
@@ -28,7 +28,7 @@ const questions = [
       type: 'list',
       name: 'license',
       message: 'What kind of license should your project have?',
-      choices: ["MIT", "APACHE 2.0", "GPL 3.0", "BSD 3", "NONE"]
+      choices: ["MIT", "APACHE 2.0"]
     },
     {
       type: 'input',
@@ -62,7 +62,7 @@ function init() {
   .then((answers) => {
     const readMePageContent = generateMarkdown(answers);
 
-    fs.writeFile('README.md', readMePageContent, (err) =>
+    fs.writeFile('DynamicREADME.md', readMePageContent, (err) =>
       err ? console.log(err) : console.log('Successfully created README.md!')
     );
   });

@@ -1,7 +1,7 @@
-## yes
-
+# Awesome Project
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## DESCRIPTION 
-  This project is licensed under: nop
+ This project details the awesomeness of itself.
   ## TABLE OF CONTENTS
 
   * [INSTALLATION](#INSTALLATION)
@@ -12,23 +12,24 @@
  
   * [CONTRIBUTING](#CONTRIBUTING)
   
-  * [TESTS](#TEST)
+  * [TESTS](#TESTS)
 
   * [QUESTIONS](#QUESTIONS)
   
   
   ## INSTALLATION
-   maybe
+   run i
   ## USAGE
-  yes
+  Awesome Project
   ## LICENSE
-  THis project is licensed with MIT 
+  This project is licensed under : MIT 
   ## CONTRIBUTING
-  yes
+  hunnid
   ## TESTS
-  To run tests run the following command : hungry?
+  To run tests run the following command : run test
 
-  ## QUESTIONS If you have any questions about the repo, open and issue or contact 
-  me directly at yup. You can find more of my work 
-  at [klsjdf] (https://github.com/klsjdf/)
+  ## QUESTIONS 
+  If you have any questions about the repo, open and issue or contact 
+  me directly at msjoyjackson@gmail.com. You can find more of my work 
+  at [joydotcom] (https://github.com/joydotcom/)
   
