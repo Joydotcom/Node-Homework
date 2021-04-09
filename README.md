@@ -1,35 +1,12 @@
-# Awesome Project
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  ## DESCRIPTION 
- This project details the awesomeness of itself.
-  ## TABLE OF CONTENTS
+# ReadMe Generator
 
-  * [INSTALLATION](#INSTALLATION)
- 
-  * [USAGE](#USAGE)
-  
-  * [LICENSE](#LICENSE)
- 
-  * [CONTRIBUTING](#CONTRIBUTING)
-  
-  * [TESTS](#TESTS)
+## DESCRIPTION
 
-  * [QUESTIONS](#QUESTIONS)
-  
-  
-  ## INSTALLATION
-   run i
-  ## USAGE
-  Awesome Project
-  ## LICENSE
-  This project is licensed under : MIT 
-  ## CONTRIBUTING
-  hunnid
-  ## TESTS
-  To run tests run the following command : run test
+Dynamically generate a ReadMe by running node index.js and answering the prompted questions. 
 
-  ## QUESTIONS 
-  If you have any questions about the repo, open and issue or contact 
-  me directly at msjoyjackson@gmail.com. You can find more of my work 
-  at [joydotcom] (https://github.com/joydotcom/)
+## Demo Link
+
+[Click here to watch the demo!](https://drive.google.com/file/d/1CmAoEUtyykIm5Ljz1iDeNP0iuXSVZHcK/view)
+
+
   
