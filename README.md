@@ -3,7 +3,10 @@
 ## DESCRIPTION
 
 Dynamically generate a ReadMe by running node index.js and answering the prompted questions.
-The new file is called ![DynamicREADME.md](./DynamicREADME.md)  
+
+## DYNAMICALLY GENERATED README FILE
+ [DynamicREADME.md](./DynamicREADME.md)  
+ [Click here to see the dynamically generated DynamicReadme.md](https://github.com/Joydotcom/Node-Homework/blob/main/DynamicREADME.md) 
 
 ## SCREENSHOT
 ![Dynamically generated ReadMe preview screenshot](./images/readmegen.png "ReadMe Screenshot")
