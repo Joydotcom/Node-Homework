@@ -2,7 +2,8 @@
 
 ## DESCRIPTION
 
-Dynamically generate a ReadMe by running node index.js and answering the prompted questions. 
+Dynamically generate a ReadMe by running node index.js and answering the prompted questions.
+The new file is called ![DynamicREADME.md](./DynamicREADME.md)  
 
 ## SCREENSHOT
 ![Dynamically generated ReadMe preview screenshot](./images/readmegen.png "ReadMe Screenshot")
